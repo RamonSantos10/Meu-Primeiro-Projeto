@@ -1,0 +1,16 @@
+C:\Projetos\AMS\1ano\SEMESTRE2\EstruturaRepeticao\Tabuada_For\obj\Debug\net5.0\Tabuada_For.csproj.AssemblyReference.cache
+C:\Projetos\AMS\1ano\SEMESTRE2\EstruturaRepeticao\Tabuada_For\obj\Debug\net5.0\Tabuada_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AMS\1ano\SEMESTRE2\EstruturaRepeticao\Tabuada_For\obj\Debug\net5.0\Tabuada_For.AssemblyInfoInputs.cache
+C:\Projetos\AMS\1ano\SEMESTRE2\EstruturaRepeticao\Tabuada_For\obj\Debug\net5.0\Tabuada_For.AssemblyInfo.cs
+C:\Projetos\AMS\1ano\SEMESTRE2\EstruturaRepeticao\Tabuada_For\obj\Debug\net5.0\Tabuada_For.csproj.CoreCompileInputs.cache
+C:\Projetos\AMS\1ano\SEMESTRE2\EstruturaRepeticao\Tabuada_For\bin\Debug\net5.0\Tabuada_For.exe
+C:\Projetos\AMS\1ano\SEMESTRE2\EstruturaRepeticao\Tabuada_For\bin\Debug\net5.0\Tabuada_For.deps.json
+C:\Projetos\AMS\1ano\SEMESTRE2\EstruturaRepeticao\Tabuada_For\bin\Debug\net5.0\Tabuada_For.runtimeconfig.json
+C:\Projetos\AMS\1ano\SEMESTRE2\EstruturaRepeticao\Tabuada_For\bin\Debug\net5.0\Tabuada_For.runtimeconfig.dev.json
+C:\Projetos\AMS\1ano\SEMESTRE2\EstruturaRepeticao\Tabuada_For\bin\Debug\net5.0\Tabuada_For.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\EstruturaRepeticao\Tabuada_For\bin\Debug\net5.0\ref\Tabuada_For.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\EstruturaRepeticao\Tabuada_For\bin\Debug\net5.0\Tabuada_For.pdb
+C:\Projetos\AMS\1ano\SEMESTRE2\EstruturaRepeticao\Tabuada_For\obj\Debug\net5.0\Tabuada_For.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\EstruturaRepeticao\Tabuada_For\obj\Debug\net5.0\ref\Tabuada_For.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\EstruturaRepeticao\Tabuada_For\obj\Debug\net5.0\Tabuada_For.pdb
+C:\Projetos\AMS\1ano\SEMESTRE2\EstruturaRepeticao\Tabuada_For\obj\Debug\net5.0\Tabuada_For.genruntimeconfig.cache
